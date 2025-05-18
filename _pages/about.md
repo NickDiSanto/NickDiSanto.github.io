@@ -10,7 +10,7 @@ redirect_from:
 ---
 <p style="margin-bottom:10px; font-size: 20px"><b>About Me</b></p>
 
-<p style="font-size: 14px">I am a Computer Science PhD student at <a href="[https://calbaptist.edu](https://www.vanderbilt.edu/)" target="_blank">Vanderbilt University</a>, working with Dr. Ipek Oguz. I previously graduated <i>summa cum laude</i> with a B.S. in Computer Science from <a href="https://calbaptist.edu" target="_blank">California Baptist University</a>.
+<p style="font-size: 14px">I am a Computer Science PhD student at <a href="https://www.vanderbilt.edu" target="_blank">Vanderbilt University</a>, working with Dr. Ipek Oguz. I previously graduated <i>summa cum laude</i> with a B.S. in Computer Science from <a href="https://calbaptist.edu" target="_blank">California Baptist University</a>.
 </p>
 <p style="font-size: 14px">My research broadly spans Machine Learning, but my current focus is <b>using deep learning for image restoration and interpolation</b>, particularly in the medical domain. My interest in biomedical AI also extends broadly, where I have interest and experience studying <b>intelligence grounding</b>, through <b>Transfer Learning</b>, and <b>Learning Representations</b>.
 </p>
