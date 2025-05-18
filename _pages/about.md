@@ -20,7 +20,7 @@ redirect_from:
 <p style="margin-bottom:10px; font-size: 20px"><b>Current Work</b></p>
 <p style="font-size: 14px">My current research focus in medical imaging is on building registration and inpainting models for 3D OCT volumes.
 </p>
-<p style="font-size: 14px">Previously, I was a Software Engineer at GE Vernova, where I led our wildfire forecasting initiative, including the training, productization, and visualization of ML pipelines with power grid applications. I also co-led a company-wide initiative to integrate Generative AI into GEV's Electrification Software products. Before that, I also spent some time as an NLP consultant at Sirch, where I built models that perform Query Auto-Completion (QAC), information retrieval, and NLU.
+<p style="font-size: 14px">Previously, I was a Software Engineer at <a href="https://www.gevernova.com" target="_blank">GE Vernova</a>, where I led our wildfire forecasting initiative, including the training, productization, and visualization of ML pipelines with power grid applications. I also co-led a company-wide initiative to integrate Generative AI into GEV's Electrification Software products. Before that, I also spent some time as an NLP consultant at Sirch, where I built models that perform Query Auto-Completion (QAC), information retrieval, and NLU.
 </p>
 <p style="font-size: 14px">If you're interested in my research or would like to collaborate, please <a href="mailto:nicolas.c.disanto@vanderbilt.edu">reach out!</a> I'm always interested in taking on new and exciting projects.</p>
 
