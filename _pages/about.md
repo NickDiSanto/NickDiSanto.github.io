@@ -53,7 +53,7 @@ redirect_from:
 ------------------
 <p style="margin-bottom:5px; font-size: 20px"><b>2023</b></p>
 <ul style="list-style-type:disc; margin-top:-2px">
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>November</b>: Our paper "<i>Spatial Analysis of Social Media's Proxies for Human Emotion and Cognition</i>" has been accepted to iConference 2024!</p></li> 
+  <li><p style="margin-bottom:5px; font-size: 14px"><b>November</b>: Our paper "<i>Spatial Analysis of Social Media's Proxies for Human Emotion and Cognition</i>" has been accepted to the International Conference on Information 2024!</p></li> 
   <li><p style="margin-bottom:5px; font-size: 14px"><b>October</b>: Our paper <a href="https://arxiv.org/abs/2310.05378" target="_blank">"<i>Transcending the Attention Paradigm: Representation Learning from Geospatial Social Media Data</i>"</a> is on arXiv!</p></li>
   <li><p style="margin-bottom:5px; font-size: 14px"><b>May</b>: Began an internship at GE Vernova</p></li>
   <li><p style="margin-bottom:5px; font-size: 14px"><b>April</b>: Graduated <i>summa cum laude</i> from California Baptist University and was awarded the "2023 CS Outstanding Student Award"</p></li>
