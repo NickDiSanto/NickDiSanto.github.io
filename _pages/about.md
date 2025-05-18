@@ -46,7 +46,7 @@ redirect_from:
 ------------------
 <p style="margin-bottom:5px; font-size: 20px"><b>2024</b></p>
 <ul style="list-style-type:disc; margin-top:-2px">
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>November</b>: Was selected out of 2000 nominees as a <i>2024 GE Vernova Changemaker</i>! This honor was for co-leading a company-wide initiative to integrate GenAI into GEV Electrification Software products.</p></li> 
+  <li><p style="margin-bottom:5px; font-size: 14px"><b>November</b>: Was selected out of 1200 nominees as a <i>2024 GE Vernova Changemaker</i>! This honor was for co-leading a company-wide initiative to integrate GenAI into GEV Electrification Software products.</p></li> 
   <li><p style="margin-bottom:5px; font-size: 14px"><b>January</b>: Started a full-time position as a Software Engineer at GE Vernova!</p></li>
 </ul>
 
