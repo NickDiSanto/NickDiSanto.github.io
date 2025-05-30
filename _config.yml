@@ -11,8 +11,7 @@ title                    : "Nick DiSanto"
 title_separator          : "-"
 name                     : &name "Nick DiSanto"
 description              : >
-  ML Researcher | SWE @ GE |
-  ML/NLP Consultant
+  CS PhD Student at Vanderbilt University
 url                      : https://nickdisanto.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NickDiSanto/NickDiSanto.github.io"
