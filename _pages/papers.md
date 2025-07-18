@@ -9,7 +9,7 @@ redirect_from:
 ---
 <p style="margin-bottom:10px;"><font size="5"><b>Papers</b></font></p>
 
-- LOTUS: Latent Outpainting Diffusion Model for Three-Dimensional Ultrasound Stitching \
+- <a href = "https://openreview.net/pdf?id=EyaeQLYCZP">LOTUS: Latent Outpainting Diffusion Model for Three-Dimensional Ultrasound Stitching</a> \
 X Yao, R Yu, **N DiSanto**, E Aghdam, K Oguine, D Lu, A Lou, J Wang, D Hu, G Arenas, B Oguz, A Pouch, N Schwartz, B Byram, I Oguz. \
 *Medical Imaging with Deep Learning (MIDL), 2025*
 
