@@ -88,7 +88,7 @@ author:
   location         :
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=aZcG3noAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=aZcG3noAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "nicolas.c.disanto@vanderbilt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
