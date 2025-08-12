@@ -20,7 +20,7 @@ redirect_from:
 <p style="margin-bottom:10px; font-size: 20px"><b>Current Work</b></p>
 <p style="font-size: 14px">I am currently investigating deep learning-based registration and inpainting methods for 3D optical coherence tomography (OCT) volumes, with an emphasis on restoring high-resolution datasets affected by motion-induced corruption.
 </p>
-<p style="font-size: 14px">Previously, I was a Software Engineer at <a href="https://www.gevernova.com" target="_blank">GE Vernova</a>, where I led our wildfire forecasting initiative, including the training, productization, and visualization of ML pipelines with power grid applications. I also co-led a company-wide initiative to integrate Generative AI into GEV's Electrification Software products. Before that, I also spent some time as an NLP consultant at Sirch, where I built models that perform Query Auto-Completion (QAC), information retrieval, and NLU.
+<p style="font-size: 14px">Previously, I was a Software Engineer at <a href="https://www.gevernova.com" target="_blank">GE Vernova</a>, where I led our wildfire forecasting initiative, including the training, productization, and visualization of ML pipelines with power grid applications. I also co-led a company-wide initiative to integrate Generative AI into GEV's Electrification Software products.
 </p>
 <p style="font-size: 14px">If you're interested in my research or would like to collaborate, please <a href="mailto:nicolas.c.disanto@vanderbilt.edu">reach out!</a> I'm always interested in taking on new and exciting projects.</p>
 
@@ -39,7 +39,8 @@ redirect_from:
 <p style="margin-bottom:5px; font-size: 20px"><b>2025</b></p>
 <ul style="list-style-type:disc; margin-top:-2px">
   <li><p style="margin-bottom:5px; font-size: 14px"><b>May</b>: My advisor, Dr. Ipek Oguz, was honored as a <a href="https://news.vanderbilt.edu/2025/05/01/11-vanderbilt-faculty-members-selected-as-2025-chancellor-faculty-fellows/" target="_blank">Chancellor Faculty Fellow!!</a></p></li>
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>March</b>: Our paper, "<i>LOTUS: Latent Outpainting Diffusion Model for Three-Dimensional Ultrasound Stitching</i>", was accepted for both oral and poster presentation at MIDL 2025!</p></li>
+  <li><p style="margin-bottom:5px; font-size: 14px"><b>March</b>: Our paper, titled <a href="https://openreview.net/pdf?id=EyaeQLYCZP
+" target="_blank">"<i>LOTUS: Latent Outpainting Diffusion Model for Three-Dimensional Ultrasound Stitching</i>"</a>, was accepted to MIDL 2025 for oral presentation <i>(top ~10%; unanimous strong-accept reviews)</i></p></li>
   <li><p style="margin-bottom:5px; font-size: 14px"><b>January</b>: Moved to Nashville and started my PhD at Vanderbilt! </p></li>
 </ul>
 
