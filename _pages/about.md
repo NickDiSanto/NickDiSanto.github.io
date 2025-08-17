@@ -34,7 +34,7 @@ redirect_from:
   <li><p style="margin-bottom:5px; font-size: 14px"><b>Physics for Engineers II</b>, <i>Teaching Assistant</i>, SP/FA 2021</p></li>
 </ul>
 
-------------------
+<!-- ------------------
 <p style="margin-bottom:13px; font-size: 24px"><b>News</b></p>
 <p style="margin-bottom:5px; font-size: 20px"><b>2025</b></p>
 <ul style="list-style-type:disc; margin-top:-2px">
@@ -55,19 +55,9 @@ redirect_from:
 <p style="margin-bottom:5px; font-size: 20px"><b>2023</b></p>
 <ul style="list-style-type:disc; margin-top:-2px">
   <li><p style="margin-bottom:5px; font-size: 14px"><b>November</b>: Our paper "<i>Spatial Analysis of Social Media's Proxies for Human Emotion and Cognition</i>" has been accepted to the International Conference on Information 2024!</p></li> 
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>October</b>: Our paper <a href="https://arxiv.org/abs/2310.05378" target="_blank">"<i>Transcending the Attention Paradigm: Representation Learning from Geospatial Social Media Data</i>"</a> is on arXiv!</p></li>
   <li><p style="margin-bottom:5px; font-size: 14px"><b>May</b>: Began an internship at GE Vernova</p></li>
   <li><p style="margin-bottom:5px; font-size: 14px"><b>April</b>: Graduated <i>summa cum laude</i> from California Baptist University and was awarded the "2023 CS Outstanding Student Award"</p></li>
-  <li><p style="font-size: 14px"><b>March</b>: Presented a poster on our research findings: "<i>Twitter2030 – Empirical Social Media Analysis</i>"</p></li>
-</ul>
-
-------------------
-<p style="margin-bottom:5px; font-size: 20px"><b>2022</b></p>
-<ul style="list-style-type:disc; margin-top:-2px">
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>December</b>: Our paper <a href="https://arxiv.org/abs/2212.05116" target="_blank">"<i>Leveraging Contextual Data Augmentation for Generalizable Melanoma Detection</i>"</a> is on arXiv!</p></li>
-  <li><p style="font-size: 14px"><b>December</b>: My paper <a href="https://arxiv.org/abs/2304.00002" target="_blank">"<i>Beyond Interpretable Benchmarks: Contextual Learning through Cognitive and Multimodal Perception</i>"</a> is on arXiv!</p></li>
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>May</b>: Began an internship at General Electric</p></li>
-</ul>
+</ul> -->
 
 ------------------
 <p style="margin-bottom:10px; font-size: 20px"><b>Miscellaneous</b></p>
