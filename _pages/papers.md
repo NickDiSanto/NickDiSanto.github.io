@@ -13,9 +13,9 @@ redirect_from:
 **N DiSanto**, EK Aghdam, H Liu, JJ Watson, YK Tao, H Li, I Oguz \
 *Under Review, SPIE Medical Imaging 2026*
 
-- <a href = "https://openreview.net/pdf?id=EyaeQLYCZP">LOTUS: Latent Outpainting Diffusion Model for Three-Dimensional Ultrasound Stitching</a> \
+- <a href="https://openreview.net/pdf?id=EyaeQLYCZP">LOTUS: Latent Outpainting Diffusion Model for Three-Dimensional Ultrasound Stitching</a> \
 X Yao, R Yu, **N DiSanto**, E Aghdam, K Oguine, D Lu, A Lou, J Wang, D Hu, G Arenas, B Oguz, A Pouch, N Schwartz, B Byram, I Oguz. \
-*Medical Imaging with Deep Learning (MIDL) 2025*
+*Medical Imaging with Deep Learning (MIDL) 2025* <img src="https://img.shields.io/badge/Oral-orange?style=flat-square" style="vertical-align:middle; margin-left:6px;">
 
 - Spatial Analysis of Social Media's Proxies for Human Emotion and Cognition \
 A Corso, **N DiSanto**, N Corso, E Lee \
