@@ -10,19 +10,19 @@ redirect_from:
 ---
 <p style="margin-bottom:10px; font-size: 20px"><b>About Me</b></p>
 
-<p style="font-size: 14px">I am a Computer Science PhD student at <a href="https://www.vanderbilt.edu" target="_blank">Vanderbilt University</a>, working with Dr. Ipek Oguz. My research is also affiliated with the <a href="https://www.vanderbilt.edu/vise/" target="_blank">Vanderbilt Institute for Surgery and Engineering (VISE)</a>. I previously graduated <i>summa cum laude</i> with a B.S. in Computer Science from California Baptist University.
+<p style="font-size: 14px">I am a Computer Science PhD student at <a href="https://www.vanderbilt.edu" target="_blank">Vanderbilt University</a>, advised by Dr. Ipek Oguz. My research is also affiliated with the <a href="https://www.vanderbilt.edu/vise/" target="_blank">Vanderbilt Institute for Surgery and Engineering (VISE)</a>. I previously graduated <i>summa cum laude</i> with a B.S. in Computer Science from California Baptist University.
 </p>
-<p style="font-size: 14px">My research broadly spans Machine Learning, but my current focus is <b>using deep learning for image reconstruction and restoration</b>, particularly in the medical domain. My interest in biomedical AI also encompasses the study of how learned representations and transfer learning can ground intelligent behavior in data-constrained environments.
+<p style="font-size: 14px">My research broadly spans Machine Learning, but my current focus is <b>using deep learning for image restoration and generation</b>, particularly in the medical domain. My interest in biomedical AI also encompasses the study of how learned representations and transfer learning can ground intelligent behavior in data-constrained environments.
 </p>
 <p style="font-size: 14px">For more information, <a href="https://nickdisanto.github.io/assets/pdfs/NickDiSanto_CV.pdf" target="_blank">check out my CV!</a></p>
 
 ------------------
 <p style="margin-bottom:10px; font-size: 20px"><b>Current Work</b></p>
-<p style="font-size: 14px">I am currently investigating deep learning-based registration and inpainting methods for 3D optical coherence tomography (OCT) volumes, with an emphasis on restoring high-resolution datasets affected by motion-induced corruption.
+<p style="font-size: 14px">I am currently investigating deep learning-based registration and inpainting methods for high-resolution 3D OCT Angiography volumes, particularly those affected by motion-induced corruption.
 </p>
 <p style="font-size: 14px">Previously, I was a Software Engineer at <a href="https://www.gevernova.com" target="_blank">GE Vernova</a>, where I led our wildfire forecasting initiative, including the training, productization, and visualization of ML pipelines with power grid applications. I also co-led a company-wide initiative to integrate Generative AI into GEV's Electrification Software products.
 </p>
-<p style="font-size: 14px">If you're interested in my research or would like to collaborate, please <a href="mailto:nicolas.c.disanto@vanderbilt.edu">reach out!</a> I'm always interested in taking on new and exciting projects.</p>
+<p style="font-size: 14px">If you're interested in my research or would like to collaborate, please <a href="mailto:nicolas.c.disanto@vanderbilt.edu">reach out!</a></p>
 
 ------------------
 <p style="margin-bottom:5px; font-size: 20px"><b>Teaching</b></p>
