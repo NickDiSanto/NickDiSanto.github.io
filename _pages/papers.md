@@ -11,7 +11,7 @@ redirect_from:
 
 - VAMOS-OCTA: Vessel-Aware Multi-Axis Orthogonal Supervision for Inpainting Motion-Corrupted OCT Angiography Volumes \
 **N DiSanto**, EK Aghdam, H Liu, JJ Watson, YK Tao, H Li, I Oguz \
-*Under Review, SPIE Medical Imaging 2026*
+*Forthcoming, SPIE Medical Imaging 2026*
 
 - <a href="https://openreview.net/pdf?id=EyaeQLYCZP">LOTUS: Latent Outpainting Diffusion Model for Three-Dimensional Ultrasound Stitching</a> \
 X Yao, R Yu, **N DiSanto**, E Aghdam, K Oguine, D Lu, A Lou, J Wang, D Hu, G Arenas, B Oguz, A Pouch, N Schwartz, B Byram, I Oguz. \
