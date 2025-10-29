@@ -10,7 +10,7 @@ redirect_from:
 ---
 <p style="margin-bottom:10px; font-size: 20px"><b>About Me</b></p>
 
-<p style="font-size: 14px">I am a Computer Science PhD student at <a href="https://www.vanderbilt.edu" target="_blank">Vanderbilt University</a>, advised by Dr. Ipek Oguz. My research is also affiliated with the <a href="https://www.vanderbilt.edu/vise/" target="_blank">Vanderbilt Institute for Surgery and Engineering (VISE)</a>. I previously graduated <i>summa cum laude</i> with a B.S. in Computer Science from California Baptist University.
+<p style="font-size: 14px">I am a Computer Science PhD student at <a href="https://www.vanderbilt.edu" target="_blank">Vanderbilt University</a>, working with Dr. Ipek Oguz in the Medical Image Computing Lab (MedICL). My research is also affiliated with the <a href="https://www.vanderbilt.edu/vise/" target="_blank">Vanderbilt Institute for Surgery and Engineering (VISE)</a>. I previously graduated <i>summa cum laude</i> with a B.S. in Computer Science from California Baptist University.
 </p>
 <p style="font-size: 14px">My research broadly spans Machine Learning, but my current focus is <b>using deep learning for image restoration and generation</b>, particularly in the medical domain. I'm also interested in how learned representations can maintain robustness across diverse imaging tasks under limited supervision.
 </p>
