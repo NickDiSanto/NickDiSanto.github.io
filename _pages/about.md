@@ -8,30 +8,26 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style="margin-bottom:10px; font-size: 20px"><b>About Me</b></p>
+<p style="margin-bottom:10px;"><font size="5"><b>About Me</b></font></p>
 
-<p style="font-size: 14px">I am a Computer Science PhD student at <a href="https://www.vanderbilt.edu" target="_blank">Vanderbilt University</a>, working with Dr. Ipek Oguz in the Medical Image Computing Lab (MedICL). My research is also affiliated with the <a href="https://www.vanderbilt.edu/vise/" target="_blank">Vanderbilt Institute for Surgery and Engineering (VISE)</a>. I previously graduated <i>summa cum laude</i> with a B.S. in Computer Science from California Baptist University.
-</p>
-<p style="font-size: 14px">My research broadly spans Machine Learning, but my current focus is <b>using deep learning for image restoration and generation</b>, particularly in the medical domain. I'm also interested in how learned representations can maintain robustness across diverse imaging tasks under limited supervision.
-</p>
-<p style="font-size: 14px">For more information, <a href="https://nickdisanto.github.io/assets/pdfs/NickDiSanto_CV.pdf" target="_blank">check out my CV!</a></p>
+I am a Computer Science PhD student at <a href="https://www.vanderbilt.edu" target="_blank">Vanderbilt University</a>, working with Dr. Ipek Oguz in the Medical Image Computing Lab (MedICL). My research is also affiliated with the <a href="https://www.vanderbilt.edu/vise/" target="_blank">Vanderbilt Institute for Surgery and Engineering (VISE)</a>. I previously graduated <i>summa cum laude</i> with a B.S. in Computer Science from California Baptist University.
+My research broadly spans Machine Learning, but my current focus is <b>using deep learning for image restoration and generation</b>, particularly in the medical domain. I'm also interested in how learned representations can maintain robustness across diverse imaging tasks under limited supervision.
+For more information, <a href="https://nickdisanto.github.io/assets/pdfs/NickDiSanto_CV.pdf" target="_blank">check out my CV!</a>
 
 ------------------
-<p style="margin-bottom:10px; font-size: 20px"><b>Current Work</b></p>
-<p style="font-size: 14px">I am currently using deep learning and representation learning to restore high-resolution 3D OCT Angiography volumes, particularly those affected by motion-induced corruption.
-</p>
-<p style="font-size: 14px">Previously, I was a Software Engineer at <a href="https://www.gevernova.com/software/products/gridos/power-grid-disruption" target="_blank">GE Vernova</a>, where I led our wildfire forecasting initiative, including the training, productization, and visualization of ML pipelines predicting power grid disruptions. I also co-led a company-wide initiative to integrate Generative AI into GEV's Electrification Software products.
-</p>
-<p style="font-size: 14px">If you're interested in my research or would like to collaborate, please <a href="mailto:nicolas.c.disanto@vanderbilt.edu">reach out!</a></p>
+<p style="margin-bottom:10px;"><font size="5"><b>Current Work</b></font></p>
+I am currently using deep learning and representation learning to restore high-resolution 3D OCT Angiography volumes, particularly those affected by motion-induced corruption.
+Previously, I was a Software Engineer at <a href="https://www.gevernova.com/software/products/gridos/power-grid-disruption" target="_blank">GE Vernova</a>, where I led our wildfire forecasting initiative, including the training, productization, and visualization of ML pipelines predicting power grid disruptions. I also co-led a company-wide initiative to integrate Generative AI into GEV's Electrification Software products.
+If you're interested in my research or would like to collaborate, please <a href="mailto:nicolas.c.disanto@vanderbilt.edu">reach out!</a>
 
 ------------------
-<p style="margin-bottom:5px; font-size: 20px"><b>Teaching</b></p>
+<p style="margin-bottom:10px;"><font size="5"><b>Teaching</b></font></p>
 <ul style="list-style-type:disc; margin-top:-2px">
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>Intro to C++</b>, <i>Teaching Assistant</i>, SP 2023</p></li>
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>Discrete Structures</b>, <i>Teaching Assistant</i>, FA 2022</p></li>
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>Algorithms</b>, <i>Tutor</i>, SP/FA 2022</p></li>
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>Computer Architecture</b>, <i>Tutor</i>, SP/FA 2022</p></li>
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>Physics for Engineers II</b>, <i>Teaching Assistant</i>, SP/FA 2021</p></li>
+  <li><p style="margin-bottom:5px"><b>Intro to C++</b>, <i>Teaching Assistant</i>, SP 2023</p></li>
+  <li><p style="margin-bottom:5px"><b>Discrete Structures</b>, <i>Teaching Assistant</i>, FA 2022</p></li>
+  <li><p style="margin-bottom:5px"><b>Algorithms</b>, <i>Tutor</i>, SP/FA 2022</p></li>
+  <li><p style="margin-bottom:5px"><b>Computer Architecture</b>, <i>Tutor</i>, SP/FA 2022</p></li>
+  <li><p style="margin-bottom:5px"><b>Physics for Engineers II</b>, <i>Teaching Assistant</i>, SP/FA 2021</p></li>
 </ul>
 
 <!-- ------------------
@@ -60,6 +56,6 @@ redirect_from:
 </ul> -->
 
 ------------------
-<p style="margin-bottom:10px; font-size: 20px"><b>Miscellaneous</b></p>
-<p style="font-size: 14px">In my free time, I play/watch basketball and watch Harry Potter with my wife, son, and <a href="https://nickdisanto.github.io/images/dinah_luna.JPEG" target="_blank">cats</a>.</p>
-<p style="font-size: 14px">I'm also passionate about playing chess and studying theory. <a href="https://lichess.org/@/Ncd3030" target="_blank">Add me on lichess</a> and challenge me to a game!</p>
+<p style="margin-bottom:10px;"><font size="5"><b>Miscellaneous</b></font></p>
+In my free time, I play/watch basketball and watch Harry Potter with my wife, son, and <a href="https://nickdisanto.github.io/images/dinah_luna.JPEG" target="_blank">cats</a>.
+I'm also passionate about playing chess and studying theory. <a href="https://lichess.org/@/Ncd3030" target="_blank">Add me on lichess</a> and challenge me to a game!
