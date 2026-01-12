@@ -20,7 +20,7 @@ redirect_from:
 <p style="margin-bottom:10px; font-size: 20px"><b>Current Work</b></p>
 <p style="font-size: 14px">I am currently using deep learning and representation learning to restore high-resolution 3D OCT Angiography volumes, particularly those affected by motion-induced corruption.
 </p>
-<p style="font-size: 14px">Previously, I was a Software Engineer at <a href="https://www.gevernova.com" target="_blank">GE Vernova</a>, where I led our wildfire forecasting initiative, including the training, productization, and visualization of ML pipelines with power grid applications. I also co-led a company-wide initiative to integrate Generative AI into GEV's Electrification Software products.
+<p style="font-size: 14px">Previously, I was a Software Engineer at <a href="https://www.gevernova.com/software/products/gridos/power-grid-disruption" target="_blank">GE Vernova</a>, where I led our wildfire forecasting initiative, including the training, productization, and visualization of ML pipelines predicting power grid disruptions. I also co-led a company-wide initiative to integrate Generative AI into GEV's Electrification Software products.
 </p>
 <p style="font-size: 14px">If you're interested in my research or would like to collaborate, please <a href="mailto:nicolas.c.disanto@vanderbilt.edu">reach out!</a></p>
 
