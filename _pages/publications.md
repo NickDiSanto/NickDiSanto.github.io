@@ -13,7 +13,7 @@ redirect_from:
 **N DiSanto**, EK Aghdam, H Liu, JJ Watson, YK Tao, H Li, I Oguz \
 *Forthcoming, SPIE Medical Imaging 2026* <img src="https://img.shields.io/badge/Oral%20Deep--Dive-orange?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;">
 
-- Monocular Absolute Depth Estimation from Endoscopy via Domain-Invariant Feature Learning and Latent Consistency \
+- <a href="https://arxiv.org/pdf/2511.02247">Monocular Absolute Depth Estimation from Endoscopy via Domain-Invariant Feature Learning and Latent Consistency</a> \
 H Li, D Lu, J d’Almeida, D Isik, EK Aghdam, **N DiSanto**, A Acar, S Sharma, JY Wu, RJ Webster III, Ipek Oguz. \
 *Forthcoming, SPIE Medical Imaging 2026* <img src="https://img.shields.io/badge/Oral-orange?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;">
 
