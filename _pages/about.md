@@ -11,13 +11,17 @@ redirect_from:
 <p style="margin-bottom:10px;"><font size="5"><b>About Me</b></font></p>
 
 I am a Computer Science PhD student at <a href="https://www.vanderbilt.edu" target="_blank">Vanderbilt University</a>, working with Dr. Ipek Oguz in the Medical Image Computing Lab (MedICL). My research is also affiliated with the <a href="https://www.vanderbilt.edu/vise/" target="_blank">Vanderbilt Institute for Surgery and Engineering (VISE)</a>. I previously graduated <i>summa cum laude</i> with a B.S. in Computer Science from California Baptist University.
+
 My research broadly spans Machine Learning, but my current focus is <b>using deep learning for image restoration and generation</b>, particularly in the medical domain. I'm also interested in how learned representations can maintain robustness across diverse imaging tasks under limited supervision.
+
 For more information, <a href="https://nickdisanto.github.io/assets/pdfs/NickDiSanto_CV.pdf" target="_blank">check out my CV!</a>
 
 ------------------
 <p style="margin-bottom:10px;"><font size="5"><b>Current Work</b></font></p>
 I am currently using deep learning and representation learning to restore high-resolution 3D OCT Angiography volumes, particularly those affected by motion-induced corruption.
+
 Previously, I was a Software Engineer at <a href="https://www.gevernova.com/software/products/gridos/power-grid-disruption" target="_blank">GE Vernova</a>, where I led our wildfire forecasting initiative, including the training, productization, and visualization of ML pipelines predicting power grid disruptions. I also co-led a company-wide initiative to integrate Generative AI into GEV's Electrification Software products.
+
 If you're interested in my research or would like to collaborate, please <a href="mailto:nicolas.c.disanto@vanderbilt.edu">reach out!</a>
 
 ------------------
@@ -58,4 +62,5 @@ If you're interested in my research or would like to collaborate, please <a href
 ------------------
 <p style="margin-bottom:10px;"><font size="5"><b>Miscellaneous</b></font></p>
 In my free time, I play/watch basketball and watch Harry Potter with my wife, son, and <a href="https://nickdisanto.github.io/images/dinah_luna.JPEG" target="_blank">cats</a>.
+
 I'm also passionate about playing chess and studying theory. <a href="https://lichess.org/@/Ncd3030" target="_blank">Add me on lichess</a> and challenge me to a game!
