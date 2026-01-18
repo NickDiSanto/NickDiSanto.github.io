@@ -17,6 +17,10 @@ redirect_from:
 H Li, D Lu, J d’Almeida, D Isik, EK Aghdam, **N DiSanto**, A Acar, S Sharma, JY Wu, RJ Webster III, Ipek Oguz. \
 *Forthcoming, SPIE Medical Imaging 2026* <img src="https://img.shields.io/badge/Oral-orange?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;">
 
+- From Geometry to Intensity: A Coarse-to-Fine Pipeline for Unsupervised 3D Ultrasound Stitching \
+X Yao, R Yu, D Lu, **N DiSanto**, EK Aghdam, K Oguine, G Arenas, B Oguz, A Pouch, N Schwartz, B Byram, I Oguz. \
+*Forthcoming, SPIE Medical Imaging 2026*
+
 - <a href="https://openreview.net/pdf?id=EyaeQLYCZP">LOTUS: Latent Outpainting Diffusion Model for Three-Dimensional Ultrasound Stitching</a> \
 X Yao, R Yu, **N DiSanto**, E Aghdam, K Oguine, D Lu, A Lou, J Wang, D Hu, G Arenas, B Oguz, A Pouch, N Schwartz, B Byram, I Oguz. \
 *Medical Imaging with Deep Learning (MIDL) 2025* <img src="https://img.shields.io/badge/Oral-orange?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;">
