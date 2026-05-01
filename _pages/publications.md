@@ -1,31 +1,30 @@
 ---
 permalink: /publications/
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 title: ""
 excerpt: "Publications"
 author_profile: true
 redirect_from:
   - /about.html
 ---
-<p style="margin-bottom:10px;"><font size="5"><b>Publications</b></font></p>
+## Publications
 
-- <a href="https://arxiv.org/abs/2602.00995">VAMOS-OCTA: Vessel-Aware Multi-Axis Orthogonal Supervision for Inpainting Motion-Corrupted OCT Angiography Volumes</a> \
+- [VAMOS-OCTA: Vessel-Aware Multi-Axis Orthogonal Supervision for Inpainting Motion-Corrupted OCT Angiography Volumes](https://arxiv.org/abs/2602.00995) \
 **N DiSanto**, EK Aghdam, H Liu, JJ Watson, YK Tao, H Li, I Oguz \
 *SPIE Medical Imaging 2026* <img src="https://img.shields.io/badge/Oral%20Deep--Dive-orange?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;"> <img src="https://img.shields.io/badge/Best%20Student%20Paper-green?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;">
 
-- <a href="https://arxiv.org/abs/2511.02247">Monocular Absolute Depth Estimation from Endoscopy via Domain-Invariant Feature Learning and Latent Consistency</a> \
-H Li, D Lu, J d’Almeida, D Isik, EK Aghdam, **N DiSanto**, A Acar, S Sharma, JY Wu, RJ Webster III, Ipek Oguz. \
+- [Monocular Absolute Depth Estimation from Endoscopy via Domain-Invariant Feature Learning and Latent Consistency](https://arxiv.org/abs/2511.02247) \
+H Li, D Lu, J d'Almeida, D Isik, EK Aghdam, **N DiSanto**, A Acar, S Sharma, JY Wu, RJ Webster III, Ipek Oguz. \
 *SPIE Medical Imaging 2026* <img src="https://img.shields.io/badge/Oral-orange?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;">
 
-- From Geometry to Intensity: A Coarse-to-Fine Pipeline for Unsupervised 3D Ultrasound Stitching \
+- [From Geometry to Intensity: A Coarse-to-Fine Pipeline for Unsupervised 3D Ultrasound Stitching](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13925/139252F/From-geometry-to-intensity--a-coarse-to-fine-pipeline/10.1117/12.3086611.short) \
 X Yao, R Yu, D Lu, **N DiSanto**, EK Aghdam, KJ Oguine, G Arenas, B Oguz, A Pouch, N Schwartz, B Byram, I Oguz. \
 *SPIE Medical Imaging 2026*
 
-- A Benchmark Study of Methods for Surgical Instrument Segmentation in Central Airway Endoscopy \
-D Isik, KJ Oguine, **N DiSanto**, J d’Almeida, RJ Webster III, I Oguz, H Li. \
+- [A Benchmark Study of Methods for Surgical Instrument Segmentation in Central Airway Endoscopy](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13925/139252H/A-benchmark-study-of-methods-for-surgical-instrument-segmentation-in/10.1117/12.3086640.short) \
+D Isik, KJ Oguine, **N DiSanto**, J d'Almeida, RJ Webster III, I Oguz, H Li. \
 *SPIE Medical Imaging 2026* <img src="https://img.shields.io/badge/Best%20Poster:%20Honorable%20Mention-green?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;">
 
-- <a href="https://openreview.net/abs?id=EyaeQLYCZP">LOTUS: Latent Outpainting Diffusion Model for Three-Dimensional Ultrasound Stitching</a> \
+- [LOTUS: Latent Outpainting Diffusion Model for Three-Dimensional Ultrasound Stitching](https://openreview.net/abs?id=EyaeQLYCZP) \
 X Yao, R Yu, **N DiSanto**, E Aghdam, KJ Oguine, D Lu, A Lou, J Wang, D Hu, G Arenas, B Oguz, A Pouch, N Schwartz, B Byram, I Oguz. \
 *Medical Imaging with Deep Learning (MIDL) 2025* <img src="https://img.shields.io/badge/Oral-orange?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;">
 
@@ -33,9 +32,8 @@ X Yao, R Yu, **N DiSanto**, E Aghdam, KJ Oguine, D Lu, A Lou, J Wang, D Hu, G Ar
 A Corso, **N DiSanto**, N Corso, E Lee \
 *International Conference on Information 2024*
 
-
-<!-- ---
-<p style="margin-bottom:10px;"><font size="5"><b>Preprints and Undergraduate Research</b></font></p>
+<!--
+## Preprints and Undergraduate Research
 
 - Transcending the Attention Paradigm: Representation Learning from Geospatial Social Media Data \
 **N DiSanto**, A Corso, B Sanders, G Harding \
@@ -47,4 +45,5 @@ A Corso, **N DiSanto**, N Corso, E Lee \
 
 - Beyond Interpretable Benchmarks: Contextual Learning through Cognitive and Multimodal Perception \
 **N DiSanto** \
-*2022* -->
+*2022*
+-->
