@@ -25,11 +25,11 @@ If you're interested in my research or would like to collaborate, please [reach 
 
 ## Teaching
 
-- Intro to C++: *Teaching Assistant*, SP 2023
-- Discrete Structures: *Teaching Assistant*, FA 2022
-- Algorithms: *Tutor*, SP/FA 2022
-- Computer Architecture: *Tutor*, SP/FA 2022
-- Physics for Engineers II: *Teaching Assistant*, SP/FA 2021
+- **Intro to C++**: *Teaching Assistant*, SP 2023
+- **Discrete Structures**: *Teaching Assistant*, FA 2022
+- **Algorithms**: *Tutor*, SP/FA 2022
+- **Computer Architecture**: *Tutor*, SP/FA 2022
+- **Physics for Engineers II**: *Teaching Assistant*, SP/FA 2021
 
 <!-- ------------------
 <p style="margin-bottom:13px; font-size: 24px"><b>News</b></p>
