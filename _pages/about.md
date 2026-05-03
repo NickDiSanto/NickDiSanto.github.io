@@ -11,13 +11,13 @@ redirect_from:
 
 I am a Computer Science PhD student at [Vanderbilt University](https://www.vanderbilt.edu){:target="_blank" rel="noopener"}, working with Dr. Ipek Oguz in the Medical Image Computing Lab (MedICL). My research is also affiliated with the [Vanderbilt Institute for Surgery and Engineering (VISE)](https://www.vanderbilt.edu/vise/){:target="_blank" rel="noopener"}. I previously graduated *summa cum laude* with a B.S. in Computer Science from California Baptist University.
 
-Previously, I was a Software Engineer at [GE Vernova](https://www.gevernova.com/software/products/gridos/power-grid-disruption){:target="_blank" rel="noopener"}, where I led our wildfire forecasting initiative and co-led a company-wide initiative to integrate Generative AI into GEV's Electrification Software products.
+Before beginning my PhD, I was a Software Engineer at [GE Vernova](https://www.gevernova.com/software/products/gridos/power-grid-disruption){:target="_blank" rel="noopener"}, where I led our wildfire forecasting initiative and co-led a company-wide initiative to integrate Generative AI into GEV's Electrification Software products.
 
 For more information, [check out my CV](/assets/pdfs/NickDiSanto_CV.pdf){:target="_blank" rel="noopener"}.
 
 ## Current Research
 
-My research broadly spans Deep Learning, but my current focus is **image restoration and generation**, particularly in the medical domain. I'm also interested in how learned representations can maintain robustness across diverse imaging tasks under limited supervision.
+My research broadly spans deep learning, but my current focus is **image restoration and generation**, particularly in the medical domain. I'm also interested in how learned representations can maintain robustness across diverse imaging tasks under limited supervision.
 
 I am currently using deep learning and representation learning to restore high-resolution 3D OCT Angiography volumes affected by motion corruption.
 
