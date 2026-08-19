@@ -9,20 +9,21 @@ redirect_from:
 ---
 ## About Me
 
-I am a Computer Science PhD student at [Vanderbilt University](https://www.vanderbilt.edu){:target="_blank" rel="noopener"}, working with Dr. Ipek Oguz in the Medical Image Computing Lab (MedICL). My research is also affiliated with the [Vanderbilt Institute for Surgery and Engineering (VISE)](https://www.vanderbilt.edu/vise/){:target="_blank" rel="noopener"}. I previously graduated *summa cum laude* with a B.S. in Computer Science from California Baptist University.
+I am a Computer Science PhD student at [Vanderbilt University](https://www.vanderbilt.edu){:target="_blank" rel="noopener"}, advised by Dr. Ipek Oguz in the Medical Image Computing Lab (MedICL). My research is also affiliated with the [Vanderbilt Institute for Surgery and Engineering (VISE)](https://www.vanderbilt.edu/vise/){:target="_blank" rel="noopener"}. I previously graduated *summa cum laude* with a B.S. in Computer Science from California Baptist University.
 
-Before beginning my PhD, I was a Software Engineer at [GE Vernova](https://www.gevernova.com/software/products/gridos/power-grid-disruption){:target="_blank" rel="noopener"}, where I led our wildfire forecasting initiative and co-led a company-wide initiative to integrate Generative AI into GEV's Electrification Software products.
+Before beginning my PhD, I was a Software Engineer at [GE Vernova](https://www.gevernova.com/software/products/gridos/power-grid-disruption){:target="_blank" rel="noopener"}, where I led end-to-end machine learning initiative for wildfire risk forecasting and co-led a company-wide generative AI adoption effort across Electrification Software.
 
 For more information, [check out my CV](/assets/pdfs/NickDiSanto_CV.pdf){:target="_blank" rel="noopener"}.
 
 ## Current Research
 
-My research broadly spans deep learning, but my current focus is **image restoration and generation**, particularly in the medical domain. I'm also interested in how learned representations can maintain robustness across diverse imaging tasks under limited supervision.
+My research is in **computer vision and machine learning**, with a current focus on image restoration and reconstruction in the medical domain. More broadly, I’m interested in **generative modeling and representation learning for 3D visual data**, particularly under incomplete or limited supervision.
 
-I am currently using deep learning and representation learning to restore high-resolution 3D OCT Angiography volumes affected by motion corruption.
+My current work develops learning-based methods for restoring 3D OCT/OCTA volumes affected by motion corruption.
 
-If you're interested in my research or would like to collaborate, please [reach out](mailto:nicolas.c.disanto@vanderbilt.edu).
+If you're interested in my research or would like to collaborate, please [reach out](mailto:nicolas.c.disanto@vanderbilt.edu)!
 
+<!-- ------------------
 ## Teaching
 
 - **Intro to C++**: *Teaching Assistant*, SP 2023
@@ -30,6 +31,7 @@ If you're interested in my research or would like to collaborate, please [reach 
 - **Algorithms**: *Tutor*, SP/FA 2022
 - **Computer Architecture**: *Tutor*, SP/FA 2022
 - **Physics for Engineers II**: *Teaching Assistant*, SP/FA 2021
+---------------------->
 
 <!-- ------------------
 <p style="margin-bottom:13px; font-size: 24px"><b>News</b></p>
