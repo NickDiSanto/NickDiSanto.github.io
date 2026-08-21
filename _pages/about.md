@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Computer Science PhD student at [Vanderbilt University](https://www.vanderbilt.edu){:target="_blank" rel="noopener"}, advised by Dr. Ipek Oguz in the Medical Image Computing Lab (MedICL). My research is also affiliated with the [Vanderbilt Institute for Surgery and Engineering (VISE)](https://www.vanderbilt.edu/vise/){:target="_blank" rel="noopener"}. I previously graduated *summa cum laude* with a B.S. in Computer Science from California Baptist University.
 
-Before beginning my PhD, I was a Software Engineer at [GE Vernova](https://www.gevernova.com/software/products/gridos/power-grid-disruption){:target="_blank" rel="noopener"}, where I led end-to-end machine learning initiative for wildfire risk forecasting and co-led a company-wide generative AI adoption effort across Electrification Software.
+Before beginning my PhD, I was a Software Engineer at [GE Vernova](https://www.gevernova.com/software/products/gridos/power-grid-disruption){:target="_blank" rel="noopener"}, where I led an end-to-end machine learning initiative for wildfire risk forecasting and co-led a company-wide generative AI adoption effort across Electrification Software.
 
 For more information, [check out my CV](/assets/pdfs/NickDiSanto_CV.pdf){:target="_blank" rel="noopener"}.
 
@@ -43,7 +43,6 @@ If you're interested in my research or would like to collaborate, please [reach 
 ### 2025
 
 - **October** — [*VAMOS-OCTA: Vessel-Aware Multi-Axis Orthogonal Supervision for Inpainting Motion-Corrupted OCT Angiography Volumes*](https://arxiv.org/abs/2602.00995){:target="_blank" rel="noopener"} was accepted to SPIE Medical Imaging 2026 as an **Oral Deep-Dive** paper. Three additional co-authored papers were also accepted: [[1]](https://arxiv.org/abs/2511.02247 "Monocular Absolute Depth Estimation from Endoscopy via Domain-Invariant Feature Learning and Latent Consistency"){:target="_blank" rel="noopener"} [[2]](https://pmc.ncbi.nlm.nih.gov/articles/PMC13331289/pdf/nihms-2177276.pdf "From Geometry to Intensity: A Coarse-to-Fine Pipeline for Unsupervised 3D Ultrasound Stitching"){:target="_blank" rel="noopener"} [[3]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13925/139252H/A-benchmark-study-of-methods-for-surgical-instrument-segmentation-in/10.1117/12.3086640.short "A Benchmark Study of Methods for Surgical Instrument Segmentation in Central Airway Endoscopy"){:target="_blank" rel="noopener"}.
-- **May** — My advisor, Dr. Ipek Oguz, was named a [2025 Chancellor Faculty Fellow](https://news.vanderbilt.edu/2025/05/01/11-vanderbilt-faculty-members-selected-as-2025-chancellor-faculty-fellows/){:target="_blank" rel="noopener"}!
 - **March** — [*LOTUS: Latent Outpainting Diffusion Model for Three-Dimensional Ultrasound Stitching*](https://openreview.net/pdf?id=EyaeQLYCZP){:target="_blank" rel="noopener"} was accepted to MIDL 2025 for an **oral and spotlight presentation**.
 - **January** — I started my PhD at Vanderbilt!
 
