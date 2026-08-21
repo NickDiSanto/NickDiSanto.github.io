@@ -33,30 +33,30 @@ If you're interested in my research or would like to collaborate, please [reach 
 - **Physics for Engineers II**: *Teaching Assistant*, SP/FA 2021
 ---------------------->
 
-<!-- ------------------
-<p style="margin-bottom:13px; font-size: 24px"><b>News</b></p>
-<p style="margin-bottom:5px; font-size: 20px"><b>2025</b></p>
-<ul style="list-style-type:disc; margin-top:-2px">
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>May</b>: My advisor, Dr. Ipek Oguz, was honored as a <a href="https://news.vanderbilt.edu/2025/05/01/11-vanderbilt-faculty-members-selected-as-2025-chancellor-faculty-fellows/" target="_blank">Chancellor Faculty Fellow!!</a></p></li>
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>March</b>: Our paper, titled <a href="https://openreview.net/pdf?id=EyaeQLYCZP
-" target="_blank">"<i>LOTUS: Latent Outpainting Diffusion Model for Three-Dimensional Ultrasound Stitching</i>"</a>, was accepted to MIDL 2025 for oral presentation <i>(top ~10%; unanimous strong-accept reviews)</i></p></li>
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>January</b>: Moved to Nashville and started my PhD at Vanderbilt! </p></li>
-</ul>
+## Recent News
 
-------------------
-<p style="margin-bottom:5px; font-size: 20px"><b>2024</b></p>
-<ul style="list-style-type:disc; margin-top:-2px">
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>November</b>: Was selected out of 1200 nominees as a <i>2024 GE Vernova Changemaker</i>! This honor was for co-leading a company-wide initiative to integrate GenAI into GEV Electrification Software products.</p></li> 
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>January</b>: Started a full-time position as a Software Engineer at GE Vernova!</p></li>
-</ul>
+### 2026
 
-------------------
-<p style="margin-bottom:5px; font-size: 20px"><b>2023</b></p>
-<ul style="list-style-type:disc; margin-top:-2px">
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>November</b>: Our paper "<i>Spatial Analysis of Social Media's Proxies for Human Emotion and Cognition</i>" has been accepted to the International Conference on Information 2024!</p></li> 
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>May</b>: Began an internship at GE Vernova</p></li>
-  <li><p style="margin-bottom:5px; font-size: 14px"><b>April</b>: Graduated <i>summa cum laude</i> from California Baptist University and was awarded the "2023 CS Outstanding Student Award"</p></li>
-</ul> -->
+- **July** — I presented [*VFMStitch: A Vision-Foundation-Model Empowered Framework for 3D Ultrasound Stitching via Geometric–Semantic Feature Fusion*](https://openreview.net/pdf?id=nILVbV4aAZ){:target="_blank" rel="noopener"} at MIDL 2026 in Taiwan.
+- **February** — [*VAMOS-OCTA*](https://arxiv.org/abs/2602.00995){:target="_blank" rel="noopener"} received the **Best Student Paper Award (Image Processing)** at SPIE Medical Imaging 2026 in Vancouver!
+
+### 2025
+
+- **October** — [*VAMOS-OCTA: Vessel-Aware Multi-Axis Orthogonal Supervision for Inpainting Motion-Corrupted OCT Angiography Volumes*](https://arxiv.org/abs/2602.00995){:target="_blank" rel="noopener"} was accepted to SPIE Medical Imaging 2026 as an **Oral Deep-Dive** paper.
+- **May** — My advisor, Dr. Ipek Oguz, was named a [2025 Chancellor Faculty Fellow](https://news.vanderbilt.edu/2025/05/01/11-vanderbilt-faculty-members-selected-as-2025-chancellor-faculty-fellows/){:target="_blank" rel="noopener"}!
+- **March** — [*LOTUS: Latent Outpainting Diffusion Model for Three-Dimensional Ultrasound Stitching*](https://openreview.net/pdf?id=EyaeQLYCZP){:target="_blank" rel="noopener"} was accepted to MIDL 2025 for an **oral and spotlight presentation**.
+- **January** — I started my PhD at Vanderbilt!
+
+<!-- ### 2024
+
+- **November** — Selected from 1,200 nominees as a *2024 GE Vernova Changemaker* for co-leading a company-wide generative AI adoption effort across Electrification Software.
+- **January** — Started a full-time position as a Software Engineer at GE Vernova.
+
+### 2023
+
+- **November** — *Spatial Analysis of Social Media's Proxies for Human Emotion and Cognition* was accepted to the International Conference on Information 2024.
+- **May** — Began an internship at GE Vernova.
+- **April** — Graduated *summa cum laude* from California Baptist University and received the 2023 Computer Science Outstanding Student Award. -->
 
 ## Miscellaneous
 

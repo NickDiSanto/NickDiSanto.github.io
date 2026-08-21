@@ -10,4 +10,5 @@ comments:
     shortname            : "mmistakes-dev"
 
 sass:
+  sass_dir: _sass
   style: expanded
