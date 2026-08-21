@@ -29,6 +29,7 @@ const mimeTypes = {
 let building = false;
 let ignoreEventsUntil = 0;
 let debounceTimer;
+const fileSignatures = new Map();
 
 function build() {
   if (building) return;
@@ -56,6 +57,17 @@ function scheduleBuild(filename) {
   if (ignoredRoots.includes(topLevel)) return;
   if (normalized === "assets/css/main.scss") return;
   if (!watchedExtensions.has(path.extname(normalized).toLowerCase())) return;
+
+  const absolutePath = path.join(root, normalized);
+  let signature = "missing";
+  try {
+    const stats = fs.statSync(absolutePath);
+    signature = `${stats.mtimeMs}:${stats.size}`;
+  } catch {
+    // A deletion or rename is still a meaningful source change.
+  }
+  if (fileSignatures.get(normalized) === signature) return;
+  fileSignatures.set(normalized, signature);
 
   clearTimeout(debounceTimer);
   debounceTimer = setTimeout(build, 400);

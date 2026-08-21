@@ -85,7 +85,9 @@ author:
   name             : "Nick DiSanto"
   avatar           : "profile_pic_cropped.JPG"
   bio              : >
-    CS PhD Student at Vanderbilt University
+    <strong>CS PhD at Vanderbilt University</strong><br>
+    Computer Vision &amp; ML<br>
+    Image Restoration &middot; 3D Vision &middot; Representation Learning
   location         :
   employer         :
   pubmed           :
