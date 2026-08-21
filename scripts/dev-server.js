@@ -27,14 +27,11 @@ const mimeTypes = {
 };
 
 let building = false;
-let rebuildQueued = false;
+let ignoreEventsUntil = 0;
 let debounceTimer;
 
 function build() {
-  if (building) {
-    rebuildQueued = true;
-    return;
-  }
+  if (building) return;
 
   building = true;
   console.log("\nRegenerating site...");
@@ -46,15 +43,13 @@ function build() {
 
   child.on("exit", (code) => {
     building = false;
+    ignoreEventsUntil = Date.now() + 1000;
     console.log(code === 0 ? "Site regenerated." : `Build failed with exit code ${code}.`);
-    if (rebuildQueued) {
-      rebuildQueued = false;
-      build();
-    }
   });
 }
 
 function scheduleBuild(filename) {
+  if (building || Date.now() < ignoreEventsUntil) return;
   if (!filename) return;
   const normalized = filename.toString().replaceAll("\\", "/");
   const topLevel = normalized.split("/", 1)[0];
