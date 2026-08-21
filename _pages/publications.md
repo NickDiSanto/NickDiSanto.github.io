@@ -30,7 +30,7 @@ D Isik, KJ Oguine, **N DiSanto**, J d'Almeida, RJ Webster III, I Oguz, H Li. \
 
 - [LOTUS: Latent Outpainting Diffusion Model for Three-Dimensional Ultrasound Stitching](https://openreview.net/pdf?id=EyaeQLYCZP) \
 X Yao, R Yu, **N DiSanto**, E Aghdam, KJ Oguine, D Lu, A Lou, J Wang, D Hu, G Arenas, B Oguz, A Pouch, N Schwartz, B Byram, I Oguz. \
-*Medical Imaging with Deep Learning (MIDL) 2025* <img src="https://img.shields.io/badge/Oral-orange?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;"> <img src="https://img.shields.io/badge/Spotlight-blue?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;">
+*Medical Imaging with Deep Learning (MIDL) 2025* <img src="https://img.shields.io/badge/Oral-orange?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;"> <img src="https://img.shields.io/badge/Spotlight-purple?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;">
 
 - Spatial Analysis of Social Media's Proxies for Human Emotion and Cognition \
 A Corso, **N DiSanto**, N Corso, E Lee. \
