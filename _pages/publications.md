@@ -36,6 +36,12 @@ X Yao, R Yu, **N DiSanto**, E Aghdam, KJ Oguine, D Lu, A Lou, J Wang, D Hu, G Ar
 A Corso, **N DiSanto**, N Corso, E Lee. \
 *International Conference on Information 2024*
 
+## Submitted Manuscripts
+
+- Reorienting 2D Inpainting for Robust Volumetric OCTA Restoration \
+**N DiSanto**, JJ Watson, YK Tao, I Oguz. \
+*Submitted to SPIE Medical Imaging 2027*
+
 <!--
 ## Preprints and Undergraduate Research
 
