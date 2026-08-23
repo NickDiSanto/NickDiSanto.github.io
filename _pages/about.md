@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Computer Science PhD student at [Vanderbilt University](https://www.vanderbilt.edu){:target="_blank" rel="noopener"}, advised by Dr. Ipek Oguz in the Medical Image Computing Lab (MedICL). My research is also affiliated with the [Vanderbilt Institute for Surgery and Engineering (VISE)](https://www.vanderbilt.edu/vise/){:target="_blank" rel="noopener"}. I previously graduated *summa cum laude* with a B.S. in Computer Science from California Baptist University.
 
-Before beginning my PhD, I was a Software Engineer at [GE Vernova](https://www.gevernova.com/software/products/gridos/power-grid-disruption){:target="_blank" rel="noopener"}, where I led an end-to-end machine learning initiative for wildfire risk forecasting and co-led a company-wide generative AI adoption effort across Electrification Software.
+Before beginning my PhD, I was a Software Engineer at [GE Vernova](https://www.gevernova.com/software/products/gridos/power-grid-disruption){:target="_blank" rel="noopener"}, where I led an end-to-end machine learning initiative for wildfire risk forecasting and co-led a company-wide AI-assisted software development initiative across Electrification Software.
 
 For more information, [check out my CV](/assets/pdfs/NickDiSanto_CV.pdf){:target="_blank" rel="noopener"}.
 
