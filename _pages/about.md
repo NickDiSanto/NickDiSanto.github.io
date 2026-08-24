@@ -13,7 +13,7 @@ I am a Computer Science PhD student at [Vanderbilt University](https://www.vande
 
 Before beginning my PhD, I was a Software Engineer at [GE Vernova](https://www.gevernova.com/software/products/gridos/power-grid-disruption){:target="_blank" rel="noopener"}, where I led an end-to-end machine learning initiative for wildfire risk forecasting and co-led a company-wide initiative for AI-assisted software development across Electrification Software.
 
-For more information, [check out my CV](/assets/pdfs/NickDiSanto_CV.pdf){:target="_blank" rel="noopener"}.
+For more information, [check out my CV](/assets/pdfs/NickDiSanto_CV_2026.pdf){:target="_blank" rel="noopener"}.
 
 ## Current Research
 
