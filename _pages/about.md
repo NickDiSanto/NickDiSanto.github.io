@@ -17,7 +17,8 @@ For more information, [check out my CV](/assets/pdfs/NickDiSanto_CV_2026.pdf){:t
 
 ## Current Research
 
-My research is in **computer vision and machine learning**, with a current focus on image restoration and reconstruction in the medical domain. More broadly, I’m interested in **generative modeling and representation learning for 3D visual data**, particularly under incomplete or limited supervision.
+My research is in **computer vision and machine learning**, with a focus on medical image restoration and reconstruction. More broadly, I’m interested in **generative modeling and representation learning for 3D visual data** under limited or incomplete supervision.
+
 
 My current work develops learning-based methods for restoring 3D OCT/OCTA volumes affected by motion corruption.
 
