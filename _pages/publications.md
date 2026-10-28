@@ -8,8 +8,6 @@ redirect_from:
 ---
 ## Selected Publications
 
-For a full list, see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=aZcG3noAAAAJ&view_op=list_works&sortby=pubdate).
-
 - Reorienting 2D Inpainting for Robust Volumetric OCTA Restoration \
 **N DiSanto**, JJ Watson, YK Tao, I Oguz. \
 *Accepted to SPIE Medical Imaging 2027* <img src="https://img.shields.io/badge/Oral-orange?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;">
