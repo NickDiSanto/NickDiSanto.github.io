@@ -6,10 +6,16 @@ author_profile: true
 redirect_from:
   - /about.html
 ---
-## Publications
+## Selected Publications
+
+For a full list, see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=aZcG3noAAAAJ&view_op=list_works&sortby=pubdate).
 
 - Reorienting 2D Inpainting for Robust Volumetric OCTA Restoration \
 **N DiSanto**, JJ Watson, YK Tao, I Oguz. \
+*Accepted to SPIE Medical Imaging 2027* <img src="https://img.shields.io/badge/Oral-orange?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;">
+
+- Multi-Scale Feature Adaptation Between a Frozen SAM 3 Encoder and a Convolutional Decoder in a U-Shaped Architecture for Medical Image Segmentation \
+EK Aghdam, **N DiSanto**, T Derr, JH Noble. \
 *Accepted to SPIE Medical Imaging 2027* <img src="https://img.shields.io/badge/Oral-orange?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;">
 
 - [VAMOS-OCTA: Vessel-Aware Multi-Axis Orthogonal Supervision for Inpainting Motion-Corrupted OCT Angiography Volumes](https://arxiv.org/abs/2602.00995) \
@@ -24,21 +30,25 @@ X Yao, **N DiSanto**, R Yu, J Wang, D Lu, G Arenas, B Oguz, A Pouch, N Schwartz,
 H Li, D Lu, J d'Almeida, D Isik, EK Aghdam, **N DiSanto**, A Acar, S Sharma, JY Wu, RJ Webster III, I Oguz. \
 *SPIE Medical Imaging 2026* <img src="https://img.shields.io/badge/Oral-orange?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;">
 
+<!--
 - [From Geometry to Intensity: A Coarse-to-Fine Pipeline for Unsupervised 3D Ultrasound Stitching](https://pmc.ncbi.nlm.nih.gov/articles/PMC13331289/pdf/nihms-2177276.pdf) \
 X Yao, R Yu, D Lu, **N DiSanto**, EK Aghdam, KJ Oguine, G Arenas, B Oguz, A Pouch, N Schwartz, B Byram, I Oguz. \
 *SPIE Medical Imaging 2026*
+-->
 
 - [A Benchmark Study of Methods for Surgical Instrument Segmentation in Central Airway Endoscopy](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13925/139252H/A-benchmark-study-of-methods-for-surgical-instrument-segmentation-in/10.1117/12.3086640.short) \
 D Isik, KJ Oguine, **N DiSanto**, J d'Almeida, RJ Webster III, I Oguz, H Li. \
 *SPIE Medical Imaging 2026* <img src="https://img.shields.io/badge/Best%20Poster:%20Honorable%20Mention-green?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;">
 
 - [LOTUS: Latent Outpainting Diffusion Model for Three-Dimensional Ultrasound Stitching](https://openreview.net/pdf?id=EyaeQLYCZP) \
-X Yao, R Yu, **N DiSanto**, E Aghdam, KJ Oguine, D Lu, A Lou, J Wang, D Hu, G Arenas, B Oguz, A Pouch, N Schwartz, B Byram, I Oguz. \
+X Yao, R Yu, **N DiSanto**, EK Aghdam, KJ Oguine, D Lu, A Lou, J Wang, D Hu, G Arenas, B Oguz, A Pouch, N Schwartz, B Byram, I Oguz. \
 *Medical Imaging with Deep Learning (MIDL) 2025* <img src="https://img.shields.io/badge/Spotlight-purple?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;"> <img src="https://img.shields.io/badge/Oral-orange?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;">
 
+<!--
 - Spatial Analysis of Social Media's Proxies for Human Emotion and Cognition \
 A Corso, **N DiSanto**, N Corso, E Lee. \
 *International Conference on Information 2024*
+-->
 
 <!--
 ## Submitted Manuscripts
