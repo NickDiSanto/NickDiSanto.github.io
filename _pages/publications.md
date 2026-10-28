@@ -8,6 +8,10 @@ redirect_from:
 ---
 ## Publications
 
+- Reorienting 2D Inpainting for Robust Volumetric OCTA Restoration \
+**N DiSanto**, JJ Watson, YK Tao, I Oguz. \
+*Accepted to SPIE Medical Imaging 2027* <img src="https://img.shields.io/badge/Oral-orange?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;">
+
 - [VAMOS-OCTA: Vessel-Aware Multi-Axis Orthogonal Supervision for Inpainting Motion-Corrupted OCT Angiography Volumes](https://arxiv.org/abs/2602.00995) \
 **N DiSanto**, EK Aghdam, H Liu, JJ Watson, YK Tao, H Li, I Oguz. \
 *SPIE Medical Imaging 2026* <img src="https://img.shields.io/badge/Best%20Student%20Paper-green?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;"> <img src="https://img.shields.io/badge/Oral%20Deep--Dive-orange?style=flat-square" style="vertical-align:-0.2em; margin-left:6px;">
@@ -36,13 +40,9 @@ X Yao, R Yu, **N DiSanto**, E Aghdam, KJ Oguine, D Lu, A Lou, J Wang, D Hu, G Ar
 A Corso, **N DiSanto**, N Corso, E Lee. \
 *International Conference on Information 2024*
 
+<!--
 ## Submitted Manuscripts
 
-- Reorienting 2D Inpainting for Robust Volumetric OCTA Restoration \
-**N DiSanto**, JJ Watson, YK Tao, I Oguz. \
-*Submitted to SPIE Medical Imaging 2027*
-
-<!--
 ## Preprints and Undergraduate Research
 
 - Transcending the Attention Paradigm: Representation Learning from Geospatial Social Media Data \
